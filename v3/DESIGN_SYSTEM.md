@@ -1,11 +1,9 @@
-# ExecCap / Acquisition Lens
+# ExecCap / Refined direction
 
-Original code-native artwork and a visual system created for this website edition. The name describes the website's visual metaphor; it does not claim a patented or validated investment methodology.
+Simple, elegant, and polished. Navy, blue, white, and pale backgrounds retain the ExecCap identity. DM Serif Display headlines and Roboto body text use clear hierarchy and comfortable line lengths. Layouts rely on spacing, fine rules, editorial service/article lists, and one architectural photograph.
 
-The motif combines a fine grid, chamfered frames, focus points, and short connecting lines. Search uses nested frames; evaluation uses paired evidence bars; transition uses a stepped handoff; firm capabilities use connected nodes. Diagrams explain concepts and do not depict transaction data or performance.
+Motion is limited to a gentle 700ms opacity reveal with an 8px upward movement as sections enter the viewport. It runs once and respects reduced motion. Navigation remains native. Content stays visible without JavaScript or IntersectionObserver support, and keyboard focus reveals the focused section immediately.
 
-Navy #062f5f, blue #0b5ea8, deep #082746, cyan #58b9e9, pale #f4f7f9. DM Serif Display for editorial headings; Roboto for working text. Cyan is reserved for lines and dark-background accents, with darker blue used for small text on white.
+Reference websites reviewed: https://www.evercore.com/ and https://www.generalatlantic.com/. Their restrained financial-services presentation informed the direction; no layouts, photography, metrics, or copy were copied.
 
-Motion: one-time 550ms reveals, a 1200ms line draw, short 180ms hover states, and supported-browser 180ms page crossfades. Reduced motion disables those effects. Native links preserve browser navigation; content is visible when JavaScript is unavailable.
-
-Editorial pages use a visual masthead, an interactive search lens, a sticky reading index, and practical exercises. Leadership appears in a supporting disclosure on the firm page; the site does not imply unverified headcount, offices, departments, outcomes, or client relationships.
+Capabilities and process lead the firm presentation. Accurate leadership details remain available in a supporting disclosure. No headcount, offices, clients, or results are invented.

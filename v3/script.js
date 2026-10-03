@@ -38,4 +38,5 @@
     try { await navigator.clipboard.writeText(draft); status.textContent = 'Email text copied. Paste it into your email app, review it, and send it to jtolbert@ExecCapAdvisors.com.'; }
     catch { const text = inquiry.querySelector('.email-draft'); text.focus(); text.select(); status.textContent = 'The draft is selected. Copy it and paste it into your email app.'; }
   });
+document.querySelectorAll('[data-requires-script]').forEach(button => { button.disabled = false; });
 })();

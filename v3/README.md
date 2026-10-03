@@ -1,7 +1,7 @@
-# ExecCap Advisors / Edition 3
+# ExecCap Advisors / Refined Edition 3
 
-The Acquisition Lens edition adds custom SVG diagrams, interactive perspectives, editorial layouts, a firm-first presentation, and accessible motion. Earlier editions remain at the repository root and /v2/.
+Updated in place at /v3/ following the owner's request for a simple, elegant, polished website. Earlier editions remain at the repository root and /v2/. The previous Edition 3 is retained in Git history at commit 8be7d30cc7c0813e5d4263c560cb49b1fd88c4c3.
 
-The recruiting signup is still a labeled preview without persistence. Contact prepares an email draft for the visitor to review and send. See DESIGN_SYSTEM.md for the reusable visual language.
+The design uses restrained photography, editorial layouts, the original ExecCap colors/type, and gentle scroll reveals. The diagrams, interactive lenses, and cross-page transitions have been removed. See DESIGN_SYSTEM.md and ASSET_CREDITS.md.
 
-The factual foundation is unchanged from Edition 2. No headcount, transaction results, clients, offices, or new capabilities were invented. Leadership details remain available under The firm.
+Internship signup remains a clearly labeled preview without saving or sending information. Contact prepares an email draft for visitors to review and send. Forms are disabled if JavaScript is unavailable, with a direct email fallback.
